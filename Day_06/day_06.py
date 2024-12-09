@@ -1,4 +1,3 @@
-
 def GetData(filename):
     map = []
     with open(filename) as f:
